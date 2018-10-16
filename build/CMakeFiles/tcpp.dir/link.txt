@@ -1,1 +1,1 @@
-/usr/bin/g++-5  -std=c++11 -O3 -g  -rdynamic CMakeFiles/tcpp.dir/testcpp.cpp.o  -o tcpp 
+/usr/bin/g++-5  -g  -rdynamic CMakeFiles/tcpp.dir/testcpp.cpp.o  -o tcpp 

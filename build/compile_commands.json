@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/lm/test_github/test/build",
-  "command": "/usr/bin/g++-5    -std=c++11 -O3 -g   -o CMakeFiles/tcpp.dir/testcpp.cpp.o -c /home/lm/test_github/test/testcpp.cpp",
+  "command": "/usr/bin/g++-5    -g   -std=gnu++11 -o CMakeFiles/tcpp.dir/testcpp.cpp.o -c /home/lm/test_github/test/testcpp.cpp",
   "file": "/home/lm/test_github/test/testcpp.cpp"
 }
 ]
